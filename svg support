@@ -1,0 +1,10 @@
+# Conclusion
+
+Support Vector Machine (SVM) was successfully
+implemented for heart disease prediction.
+
+Feature scaling improved the model performance,
+and the model achieved approximately 88% accuracy.
+
+SVM performed better than Decision Tree
+on this dataset.
